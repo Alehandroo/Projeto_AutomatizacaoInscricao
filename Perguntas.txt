@@ -1,0 +1,78 @@
+Perguntas
+
+Perguntas
+
+
+-----------Outro----------------
+Neste momento, qual é a método utilizado para inserir dados?
+
+
+
+
+-----------Parte visual e Programa----------------
+
+O programa precisa de ter uma interface gráfica do utilizador?
+Como o programa deve ser inicializado? O programa deve correr em segundo plano ou ter a sua própria aplicação para iniciar, parar, etc...
+Onde o programa será executado? É um sistema operativo ou um servidor local?
+O programa deve ser só capaz de inserir novos alunos ou também atualizar dados de alunos já existentes?
+
+
+-----------E-mail----------------
+
+Quem é o emissor dos e-mails?
+Para onde os emails vão? Não deviam ser recaminhados para um outro email para o qual temos acesso para poder correr o programa?
+Qual a informação que devemos recolher?
+Serão recebidos anexos?
+Qual é o formato do email?
+O email dos dados é uniforme ou pode haver vários tipos de emails para dados?
+Existe diferença entre inscrições para cada escola do agrupamento?
+	Se existirem diferenças, quais são?
+Quando inscrivemos um aluno, na inserção de dados, essa inscrição é uniforme ou difere consoante o curso ou a escola?
+Onde no email está a informação que devemos recolher?
+Onde é que vão ser gravados os dados dos alunos?
+Serão recebidos apenas os dados dos alunos ou também o de professores?
+É necessário gravar dados diferentes para alunos diferentes? (Ex: Alunos de necessidades especiais, os de cursos regulares / profissionais / CEFS)
+É possível que seja enviado um email com aluno repetido ou inválido?
+	(Fazer um método de verificação para alunos repetidos ou inválidos)
+
+
+-----------Base de dados----------------
+
+Onde é que vão ser gravados os dados dos alunos?
+Existe algum requisito de segurança para o armazenamento de dados de alunos na base de dados?
+Vai ser preciso aceder a alguma plataforma (ex: inovar) para inserir dados?
+
+
+
+-----------Parte visual e Programa----------------
+
+O programa precisa de ter uma interface gráfica do utilizador?
+Como o programa deve ser inicializado? O programa deve correr em segundo plano ou ter a sua própria aplicação para iniciar, parar, etc...
+Onde o programa será executado? É um sistema operativo ou um servidor local?
+O programa deve ser só capaz de inserir novos alunos ou também atualizar dados de alunos já existentes?
+
+
+-----------E-mail----------------
+
+Para onde os emails vão? Não deviam ser recaminhados para um outro email para o qual temos acesso para poder correr o programa?
+Qual a informação que devemos recolher?
+Serão recebidos anexos?
+Qual é o formato do email?
+O email dos dados é uniforme ou pode haver vários tipos de emails para dados?
+Existe diferença entre inscrições para cada escola do agrupamento?
+	Se existirem diferenças, quais são?
+Quando inscrivemos um aluno, na inserção de dados, essa inscrição é uniforme ou difere consoante o curso ou a escola?
+Onde no email está a informação que devemos recolher?
+Onde é que vão ser gravados os dados dos alunos?
+Serão recebidos apenas os dados dos alunos ou também o de professores?
+É necessário gravar dados diferentes para alunos diferentes? (Ex: Alunos de necessidades especiais, os de cursos regulares / profissionais / CEFS)
+É possível que seja enviado um email com aluno repetido ou inválido?
+	Se for é necessário criar um sistema para evitar tal?
+
+
+-----------Base de dados----------------
+
+Onde é que vão ser gravados os dados dos alunos?
+Existe algum requisito de segurança para o armazenamento de dados de alunos na base de dados?
+Vai ser preciso aceder a alguma plataforma (ex: inovar) para inserir dados?
+

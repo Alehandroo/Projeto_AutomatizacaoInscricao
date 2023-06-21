@@ -3,7 +3,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 # from googleapiclient.discovery import build
 
 scope = ['https://www.googleapis.com/auth/spreadsheets']
-creds = ServiceAccountCredentials.from_json_keyfile_name("C:\\Users\\alpoente - tipo3\\Desktop\\projetoautomatizacao-d5b2f1d4925e.json", scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name("C:\\Users\\JOHNNYPENI\\Desktop\\Estagio\\Projeto_AutomatizacaoInscricao\\projetoautomatizacao-d5b2f1d4925e.json", scope)
 client = gspread.authorize(creds)
 
 sheet = client.open_by_key('1pd_fM-G6Yf9e6OfkWTBl2cWKrImVmygEBoKUW62mEbQ')

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectoauto",
+  "private_key_id": "ae51294fd899c60f8f57fc05c264cd438b515ad3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZrRDTYqiLfzYs\n4BhQVHhgEWXw2bS565S0Tvmtcr4xWAtpX0GrQ7/jbLI6+7xgoI24IeEgb1G6rfsY\nr06/yXm4p8SX8u89E75eJGR8klluI6UF6DB0gvrU3mxo29IoOlc8nJZfllB13lgL\nZtXoVgCC0OvdEx8/2FfiTne0wobdKjUEx17dXPoibJLMmKODXsQl6tVr95K3ZtzZ\nyi3HvJEWv6Oooxv84NqjKBHb+koxywDYJu79nAvI6h5do265rQvHhtETUB4wozMn\nGmsuCK+5WcEAuK0ccb5WMdyYEODXDOFPFcUzmYakbly2rNkoXKUWqy7nIuAhiTvg\nhv3VIVwVAgMBAAECggEAC7tqc/42B9i6JoaIgPHgkAr4A9h0B25FVEeKaPkNe7Lb\nYJlH/I9Y/Qy7eXbecxXMNZ+r1tfxH37nkO/H7onRI+z06VyoXNIe2UucV+N6aveE\nWjJmxCzYEJeRX8BzTgRA9e0ZpLrBCO1MMQcgodZazjIs+Dwi28nRCMtCY+11H9/g\nSoqNAIemK15Ohi0tjWCtuL4CUtbSdphGS8l882MzHV5RZ9N42FAUnpEYi/TgtSHA\nEdOjp9wwdwhE2r53IgTgWz7Z3Axc7CgSxw5XQd7/Unv5G7rANiU0kE9MbgiQn1rC\nx7aDd9ysNFBfDyW30/C7UoxqF8mlJzUQOCAAvFqIMQKBgQDw5pnp/aj796X/hHRE\nRmItYMGk6KzsSD8BaJUhvBstzGavaUwPqDCXJr4xPe3CY3qFI8lnTMu9MHdqSSGB\nh32e72E7JAGR+WnlPq1371p2luzGmrJ6gfM5XkRPMFABSJNoQppAeza+fSBYY773\nG6l5DfmF6epEzyBwF8a88o63sQKBgQDnUc8zGM1vbRw2Xri2PZFfftyK2IxFwi0/\nEqSWSFE/l234WZW6CGn3vSeJUT+9hwCCsVxRPmxN2szVmVAggm69vFsQjUAEwiio\ncCBk0OYNG3JaSVWUiv2W2cCHKp7/fNXVIVWCoKPcESh76AtvvrZgyyniz0EzBdwp\n3Hv99vknpQKBgQDo+62J3zjKj8WsrNahnYygJH7D1gA/+NNusk3hNYL3tULujSDx\n15E+7kptZ16GbR12nJjR3jUBgVlMovPTyU1WJF/eCcG3AwhGnWq5nvTX0rmmjsDk\nuL+aETBxgeEujJl78UYr7L6SVoOs2LM9XDR4jmpv+D4JVGUj4+rinJgo0QKBgBFg\nUNs6wrvbC2J+LQvrhg8RXYnEiIz48CMryFdNqWTIgEdGm3u1BBjLCbxD8TDQglZO\n8mtb8BDNHdPxx1YZ1i3Eh2av5Z414437lkNceduEM0va9GXLJw983fyJVBZHD10K\nOv0sCgMO+uaL4MgNIHAW8teJ0BEAILC4UkwakE7NAoGAaj6cA/jRH9qMTp2edOK2\n67l+djpXAQSh+j4/NEbifEdX0L8N6zlIMdNX0K8k66fmUXME4wYouuRbUOcxMUt7\nLaX0nkc9FgjYX6GeGKUTImmIgyZiqYkuofdEcm/rkH+JVYPimvhLNp33r+kWNB8Z\n0V7Dczw0O8kFcyyGGIJXaLk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "projetoauto@projectoauto.iam.gserviceaccount.com",
+  "client_id": "104106691047258874107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projetoauto%40projectoauto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
